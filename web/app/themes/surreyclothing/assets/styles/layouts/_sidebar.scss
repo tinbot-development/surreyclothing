@@ -1,0 +1,17 @@
+.sidebar {
+    .widget {
+      //School Login Form
+        #schoolLogin {
+            padding-bottom: 20px;
+            .form-group {
+                label {
+                    margin-left: 0;
+                }
+            }
+            .btn.btn-primary {
+                width: 150px;
+
+            }
+        }
+    }
+}
